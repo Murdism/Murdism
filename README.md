@@ -11,14 +11,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ** pedestrian behaviour prediction and safe navigation at khalifa Univervesity AvLab(avlab.io) **
+ 🔭 I’m currently working on **pedestrian behaviour prediction and safe navigation at khalifa Univervesity AvLab(avlab.io)**
 
  👀 I’m interested in Machine learning, deep learning, and autonomous driving
  
  🌱 I’m currently learning **Docker, ROS2**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
 
  </div>
 
