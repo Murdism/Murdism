@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center"> 🦾 A passionate Computer Engineer primarily focused on robotics.🦿</h3>
-<h4 align="center"> 📫 How to reach me murdiszm@gmail.com </h4>
+
 
 <br/>
 
@@ -32,7 +32,7 @@
   </a>
 </div>
 
- <hr/>
+
     
 <!---
 - 👋 Hi, I’m @Murdism
