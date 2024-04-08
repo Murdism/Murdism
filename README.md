@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **pedestrian behaviour prediction and safe navigation at khalifa Univervesity AvLab(avlab.io)**
+ 🔭 I’m currently working on **pedestrian behaviour prediction and safe navigation**
 
  👀 I’m interested in Machine learning, deep learning, and autonomous driving
  
