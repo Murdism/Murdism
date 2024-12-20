@@ -4,14 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Murad+Smreteab!;" />
 </h1>
 
-<h3 align="center"> Research Engineer working on perception and prediction for autonomous vehicles, focusing on 3D detection and trajectory prediction using LiDAR and camera fusion.</h3>
+<h3 align="center"> Research Engineer working on perception and prediction for autonomous vehicles.</h3>
 
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on ** camera and Lidar based perception and Prediction** 
+ 🔭 I’m currently working on ** 3D detection and trajectory prediction using LiDAR and camera fusion** 
 
  👀 I’m interested in Machine learning, deep learning, and autonomous driving
 
