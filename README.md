@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ** 3D detection and trajectory prediction using LiDAR and camera fusion** 
+ 🔭 I’m currently working on **3D detection and trajectory prediction using LiDAR and camera fusion** 
 
  👀 I’m interested in Machine learning, deep learning, and autonomous driving
 
