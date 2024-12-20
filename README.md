@@ -67,6 +67,11 @@
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/murdism/murdism/output/github-contribution-grid-snake.svg" />
 </div>
 
+## 🐍 Contributions
+
+<div align="center">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/murdism/murdism/output/github-contribution-grid-snake.svg?palette=tokyonight" />
+</div>
 ## 🔬 Areas of Interest
 
 - Computer Vision & Perception
