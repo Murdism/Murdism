@@ -68,6 +68,17 @@
 
 <hr/>
 
+<!-- Featured Work -->
+<div align="center">
+    <h3>🎥 Featured Project</h3>
+    <p align="center">
+        <a href="https://www.youtube.com/watch?v=ZYhhkAWVly0" target="_blank">
+            <img src="https://img.shields.io/badge/🚗_Watch_Demo-Autonomous_Perception_Pipeline-blue?style=for-the-badge" alt="Watch Demo" />
+        </a>
+    </p>
+    <p><em>Explore our cutting-edge perception system in action! See how we fuse LiDAR and camera data for precise 3D detection and trajectory prediction.</em></p>
+</div>
+
 <!-- Research Interests -->
 <div align="center">
     <h3>🔬 Research Focus</h3>
