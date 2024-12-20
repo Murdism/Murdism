@@ -34,7 +34,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murdism&show_icons=true&count_private=true&include_all_commits=true&show_all_commits=true&hide_rank=false&rank_icon=github&theme=tokyonight&hide_border=true"/>
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murdism&theme=algolia&hide_border=false"/>
 
-        [![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=murdism)](https://github.com/anuraghazra/github-readme-stats)
+[![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=murdism)](https://github.com/anuraghazra/github-readme-stats)
     </a>
 </div>
 
