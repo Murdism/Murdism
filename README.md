@@ -1,67 +1,74 @@
+<!-- Visitor Badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mudrism.murdism" />
 
+<!-- Animated Introduction -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Murad+Mebrahtu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Murad+Mebrahtu!;+Welcome+to+my+Profile!;" />
 </h1>
 
-<h3 align="center"> Research Engineer working on perception and prediction for autonomous vehicles.</h3>
-
+<!-- Professional Summary -->
+<h3 align="center">Research Engineer @ <a href="https://avlab.io/" target="_blank">AVLAB</a> specializing in Perception and Prediction for Autonomous Vehicles</h3>
 
 <br/>
 
+<!-- Current Work and Interests -->
 <div align="center">
- 
- 🔭 I’m currently working on **3D detection and trajectory prediction using LiDAR and camera fusion** 
+    <p>🔬 Advancing the field of <strong>3D Detection and Trajectory Prediction</strong> through LiDAR-Camera Fusion</p>
+    <p>🚗 Passionate about revolutionizing autonomous driving through deep learning innovations</p>
+    <p>📚 Exploring cutting-edge developments in computer vision and sensor fusion</p>
+</div>
 
- 👀 I’m interested in Machine learning, deep learning, and autonomous driving
+<!-- Technical Expertise -->
+<div align="center">
+    <h3>🛠️ Technical Stack</h3>
+    <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+    </p>
+</div>
 
- </div>
+<br/>
 
- 
+<!-- Contact Information -->
 <div align="center"> 
-  <a href="mailto:muradsmebrahtu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/murad-s-mebrahtu-0311a0181" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://murdism.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+    <a href="mailto:muradsmebrahtu@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://linkedin.com/in/murad-s-mebrahtu-0311a0181" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://murdism.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    </a>
 </div>
 
-
 <hr/>
+
+<!-- GitHub Stats -->
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/murdism/murdism/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+    <h2>📊 GitHub Analytics</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=murdism&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=murdism&theme=radical" alt="GitHub Streak" />
+</div>
+
+<!-- Contribution Snake -->
+<div align="center">
+    <h2>🐍 Contribution Activity 🐍</h2>
+    <br>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/murdism/murdism/output/github-contribution-grid-snake.svg" />
+    <br/><br/>
 </div>
 
 <hr/>
-<!---
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-murdism.vercel.app/?user=murdism&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-murdism.vercel.app/api?username=murdism&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-murdism.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<!-- Research Interests -->
+<div align="center">
+    <h3>🔬 Research Focus</h3>
+    <p>• Multi-modal Sensor Fusion</p>
+    <p>• 3D Object Detection</p>
+    <p>• Trajectory Prediction</p>
+    <p>• Deep Learning for Autonomous Systems</p>
 </div>
-
-<br/><br/>
-<!---
-    
-<!---
-- 👋 Hi, I’m @Murdism
-- 👀 I’m interested in Machine learning, deep learning, and autonomous driving 
-- 🌱 I’m currently working on pedestrian behaviour prediction and safe navigation
-- 📫 How to reach me murdiszm@gmail.com
-<!---
-
-<!---
-Murdism/Murdism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
