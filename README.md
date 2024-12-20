@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Murad+Smreteab!;" />
 </h1>
 
-<h3 align="center"> 🦾 A passionate Computer Engineer primarily focused on Autonomous Navigation and Robotics🦿</h3>
+<h3 align="center"> Research Engineer working on perception and prediction for autonomous vehicles, focusing on 3D detection and trajectory prediction using LiDAR and camera fusion.</h3>
 
 
 <br/>
