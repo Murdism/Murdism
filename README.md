@@ -33,13 +33,17 @@
     <a href="https://github.com/murdism">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murdism&show_icons=true&count_private=true&include_all_commits=true&show_all_commits=true&hide_rank=false&rank_icon=github&theme=tokyonight&hide_border=true"/>
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murdism&theme=algolia&hide_border=false"/>
-        
-[![Murad's GitHub stats](https://github-readme-stats.vercel.app/api?username=murdism&show_icons=true&count_private=true&include_all_commits=true&show_all_commits=true&hide_rank=false&rank_icon=github&theme=tokyonight&hide_border=true")](https://github.com/murdism/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
     </a>
 </div>
 
+## 📊 GitHub Stats
 
+<div align="center">
+    <a href="https://github.com/murdism">
+        <img height="180em" src="https://vercel.com/murdisms-projects/github-readme-stats/HhBzusSwQAFXazeRQwQ1cjsp9EWS/api?username=murdism&show_icons=true&count_private=true&include_all_commits=true&show_all_commits=true&hide_rank=false&rank_icon=github&theme=algolia&hide_border=true"/>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murdism&theme=algolia&hide_border=false"/>
+    </a>
+</div>
 ## 🎯 Latest Work
 
 <div align="center">
