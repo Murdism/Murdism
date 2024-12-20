@@ -1,39 +1,56 @@
-<!-- Visitor Badge -->
+# Hi there! I'm Murad Mebrahtu 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mudrism.murdism" />
 
-<!-- Animated Introduction -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Murad+Mebrahtu!;+Welcome+to+my+Profile!;" />
-</h1>
-
-<!-- Professional Summary -->
-<h3 align="center">Research Engineer @ <a href="https://avlab.io/" target="_blank">AVLAB</a> specializing in Perception and Prediction for Autonomous Vehicles</h3>
-
-<br/>
-
-<!-- Current Work and Interests -->
 <div align="center">
-    <p>🔬 Advancing the field of <strong>3D Detection and Trajectory Prediction</strong> through LiDAR-Camera Fusion</p>
-    <p>🚗 Passionate about revolutionizing autonomous driving through deep learning innovations</p>
-    <p>📚 Exploring cutting-edge developments in computer vision and sensor fusion</p>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Murad+Mebrahtu!;+Welcome+to+my+Profile!;" />
 </div>
 
-<!-- Technical Expertise -->
+<h3 align="center">Research Engineer @ <a href="https://avlab.io/" target="_blank">AVLAB</a></h3>
+
 <div align="center">
-    <h3>🛠️ Technical Stack</h3>
     <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+        <strong>Specializing in perception and prediction systems for autonomous vehicles</strong>
     </p>
 </div>
 
-<br/>
+## 🔭 Current Focus
 
-<!-- Contact Information -->
-<div align="center"> 
+- Working on 3D detection and trajectory prediction using LiDAR and camera fusion
+- Developing advanced perception systems for autonomous vehicles
+- Exploring innovations in multi-modal sensor fusion
+- Implementing deep learning solutions for real-world autonomous systems
+
+## 🛠️ Technical Stack
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+    <a href="https://github.com/murdism">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murdism&show_icons=true&count_private=true&include_all_commits=true&show_all_commits=true&hide_rank=false&rank_icon=github&theme=algolia&hide_border=true"/>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murdism&theme=algolia&hide_border=false"/>
+    </a>
+</div>
+
+## 🎯 Recent Work
+
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=ZYhhkAWVly0" target="_blank">
+        <img src="https://img.shields.io/badge/Project_Demo-Perception_Pipeline-4285F4?style=flat-square&logo=youtube" alt="Project Demo" />
+    </a>
+    <p><em>Technical demonstration of our multi-modal perception system for autonomous vehicles</em></p>
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
     <a href="mailto:muradsmebrahtu@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
@@ -45,45 +62,15 @@
     </a>
 </div>
 
-<hr/>
+## 🐍 Contribution Activity
 
-<!-- GitHub Stats -->
 <div align="center">
-    <h2>📊 GitHub Analytics</h2>
-    <p align="center">
-        <a href="https://github.com/murdism">
-            <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=murdism&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-            <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murdism&theme=algolia&hide_border=false"/>
-        </a>
-    </p>
-</div>
-
-<!-- Contribution Snake -->
-<div align="center">
-    <h2>🐍 Contribution Activity 🐍</h2>
-    <br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/murdism/murdism/output/github-contribution-grid-snake.svg" />
-    <br/><br/>
 </div>
 
-<hr/>
+## 🔬 Research Interests
 
-<!-- Featured Work -->
-<div align="center">
-    <h3>Recent Work</h3>
-    <p align="center">
-        <a href="https://www.youtube.com/watch?v=ZYhhkAWVly0" target="_blank">
-            <img src="https://img.shields.io/badge/Project_Demo-Perception_Pipeline-4285F4?style=flat-square&logo=youtube" alt="Project Demo" />
-        </a>
-    </p>
-    <p><em>Technical demonstration of our multi-modal perception system for autonomous vehicles</em></p>
-</div>
-
-<!-- Research Interests -->
-<div align="center">
-    <h3>🔬 Research Focus</h3>
-    <p>• Multi-modal Sensor Fusion</p>
-    <p>• 3D Object Detection</p>
-    <p>• Trajectory Prediction</p>
-    <p>• Deep Learning for Autonomous Systems</p>
-</div>
+- Multi-modal Sensor Fusion
+- 3D Object Detection
+- Trajectory Prediction
+- Deep Learning for Autonomous Systems
