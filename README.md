@@ -1,24 +1,14 @@
-# Hi there! I'm Murad Mebrahtu 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mudrism.murdism" />
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Murad+Mebrahtu!;+Welcome+to+my+Profile!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Murad+Mebrahtu!;" />
 </div>
 
-<h3 align="center">Research Engineer @ <a href="https://avlab.io/" target="_blank">AVLAB</a></h3>
-
-<div align="center">
-    <p>
-        <strong>Specializing in perception and prediction systems for autonomous vehicles</strong>
-    </p>
-</div>
-
-## 🔭 Current Focus
-
-- Working on 3D detection and trajectory prediction using LiDAR and camera fusion
-- Developing advanced perception systems for autonomous vehicles
-- Exploring innovations in multi-modal sensor fusion
-- Implementing deep learning solutions for real-world autonomous systems
+<h3 align="center">
+    Research Engineer @ <a href="https://avlab.io/" target="_blank">AVLAB</a>
+    <br>
+    Working on perception and prediction for autonomous vehicles
+</h3>
 
 ## 🛠️ Technical Stack
 
@@ -70,7 +60,7 @@
 
 ## 🔬 Research Interests
 
-- Multi-modal Sensor Fusion
-- 3D Object Detection
-- Trajectory Prediction
-- Deep Learning for Autonomous Systems
+- Computer Vision & Perception
+- Machine Learning & Deep Learning
+- Autonomous Systems
+- Multi-Modal Fusion
