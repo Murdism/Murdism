@@ -27,16 +27,6 @@
     <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-    <a href="https://github.com/murdism">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murdism&show_icons=true&count_private=true&include_all_commits=true&show_all_commits=true&hide_rank=false&rank_icon=github&theme=tokyonight&hide_border=true"/>
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murdism&theme=algolia&hide_border=false"/>
-    </a>
-</div>
-
-
 ## 🎯 Latest Work
 
 <div align="center">
