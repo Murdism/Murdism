@@ -10,15 +10,17 @@
     Building perception & prediction systems for autonomous vehicles
 </h3>
 
-## 🔭 What I Do
+<p align="center">
+    <a href="https://murdism.github.io/resume/" target="_blank">View My CV</a>
+</p>
 
+## 🔭 What I Do
 - Working on multi-modal perception systems using LiDAR and camera fusion
 - Implementing deep learning solutions for real-time autonomous applications
 - Developing trajectory prediction models for autonomous navigation
 - Exploring efficient architectures for edge deployment
 
 ## 🛠️ Tech Stack
-
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -28,7 +30,6 @@
 </div>
 
 ## 🎯 Latest Work
-
 <div align="center">
     <a href="https://www.youtube.com/watch?v=ZYhhkAWVly0" target="_blank">
         <img src="https://img.shields.io/badge/Project_Demo-Perception_Pipeline-4285F4?style=flat-square&logo=youtube" alt="Project Demo" />
@@ -36,9 +37,7 @@
     <p><em>Technical demonstration of our multi-modal perception system for autonomous vehicles</em></p>
 </div>
 
-
 ## 📫 Connect
-
 <div align="center">
     <a href="mailto:muradsmebrahtu@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -52,14 +51,11 @@
 </div>
 
 ## 🐍 Contributions
-
 <div align="center">
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/murdism/murdism/output/github-contribution-grid-snake.svg" />
 </div>
 
-
 ## 🔬 Areas of Interest
-
 - Computer Vision & Perception
 - Machine Learning & Deep Learning
 - Autonomous Systems
