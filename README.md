@@ -7,7 +7,7 @@
 <h3 align="center">
     Autonomous Systems & Perception Engineer @ <a href="https://avlab.io/" target="_blank">AVLAB</a>
     <br>
-    Building perception systems and validating autonomy in real-world & simulation
+    Building and validating perception systems for real-world autonomous vehicles
 </h3>
 
 <p align="center">
@@ -16,11 +16,18 @@
 
 ---
 
+## 🚀 About Me
+I work on **autonomous vehicle perception and validation**, bridging **research, field testing, and deployment**. My focus is on building **robust LiDAR–camera perception pipelines** and validating them through **simulation and real-world testing** using ROS2.
+
+I regularly work with **sensor calibration, ROS bag analysis, system debugging**, and cross-team integration to ensure perception outputs are reliable in safety-critical environments.
+
+---
+
 ## 🔭 What I Do
-- Develop and validate **LiDAR–camera perception pipelines** for autonomous vehicles
-- Work on **3D object detection, tracking, and trajectory prediction** in ROS2
-- Perform **field testing, sensor calibration, ROS bag analysis, and system debugging**
-- Build **simulation-based test setups (Gazebo / RViz)** for repeatable validation
+- Design and validate **LiDAR–camera perception pipelines** for autonomous vehicles  
+- Develop **3D detection, tracking, and trajectory prediction** modules in **ROS2**  
+- Execute **field testing**, including sensor calibration, data collection, and failure analysis  
+- Build **simulation-based test setups** (Gazebo / RViz) for repeatable validation  
 - Optimize perception models for **real-time and edge deployment**
 
 ---
@@ -44,17 +51,17 @@
     <a href="https://www.youtube.com/watch?v=ZYhhkAWVly0" target="_blank">
         <img src="https://img.shields.io/badge/Project_Demo-Perception_Pipeline-4285F4?style=flat-square&logo=youtube" alt="Project Demo" />
     </a>
-    <p><em>End-to-end LiDAR–camera perception pipeline validated in simulation and field testing</em></p>
+    <p><em>End-to-end LiDAR–camera perception pipeline validated in simulation and real-world testing</em></p>
 </div>
 
 ---
 
 ## 🔬 Focus Areas
-- Autonomous Vehicle Perception
-- Multi-Modal Sensor Fusion (LiDAR + Camera)
-- Field Testing & System Validation
-- ROS2-Based Autonomy
-- Simulation-to-Real Evaluation
+- Autonomous Vehicle Perception  
+- Multi-Modal Sensor Fusion (LiDAR + Camera)  
+- Field Testing & System Validation  
+- ROS2-Based Autonomy  
+- Simulation-to-Real Evaluation  
 
 ---
 
