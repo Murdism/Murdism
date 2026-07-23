@@ -20,6 +20,9 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      # Allow temporarily running actions that target Node 20 on Node 24 runners
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -29,6 +32,9 @@ jobs:
         uses: actions/configure-pages@v5
         with:
           enablement: true
+          # Optional: provide a Personal Access Token (repo/pages scope) via
+          # the secret `GH_PAGES_PAT` if the GITHUB_TOKEN lacks permission.
+          token: ${{ secrets.GH_PAGES_PAT }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
