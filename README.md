@@ -8,7 +8,7 @@ Building and deploying perception systems for autonomous vehicles at Khalifa Uni
 
 ## What I Work On
 
-Perception and prediction for autonomous systems: LiDAR-camera fusion, 3D object detection, multi-object tracking, and probabilistic trajectory prediction. I build ROS2 pipelines, deploy them on real vehicles via ONNX/TensorRT, and test them in structured field environments.
+Perception and prediction for autonomous systems: LiDAR-camera fusion, 3D object detection, multi-object tracking, and probabilistic trajectory prediction. I build ROS2 pipelines, deploy them on real vehicles, and test them in structured field environments.
 
 
 ---
@@ -26,10 +26,10 @@ Full list: [Google Scholar](https://scholar.google.com/citations?user=pHrzj5kAAA
 
 ## Tech
 
-**Perception:** PyTorch, YOLO, PointPillars, camera-LiDAR fusion, multi-object tracking, trajectory prediction, OpenCV, Open3D
-**Robotics:** ROS1/ROS2, Gazebo, RViz, Nav2, CARLA
-**Deployment:** ONNX, TensorRT, CUDA, Docker, NVIDIA edge platforms
-**Languages:** Python, C++, MATLAB
+**Perception:** PyTorch, YOLO, PointPillars, camera-LiDAR fusion, multi-object tracking, trajectory prediction, OpenCV, Open3D  
+**Robotics:** ROS1/ROS2, Gazebo, RViz, Nav2, CARLA  
+**Deployment:** ONNX, TensorRT, CUDA, Docker, NVIDIA edge platforms  
+**Languages:** Python, C++, MATLAB  
 
 ---
 
