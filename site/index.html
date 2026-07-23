@@ -46,7 +46,7 @@
     <section class="sec">
       <div class="highlights">
         <div class="highlight-card">
-          <div class="highlight-num">79+</div>
+          <div class="highlight-num" id="citation-count">--</div>
           <div class="highlight-label">Citations</div>
         </div>
         <div class="highlight-card">
@@ -212,6 +212,22 @@
   </div>
   <div class="footer-copy">&copy; 2026 Murad Smretab Mebrahtu</div>
 </footer>
+
+<script>
+(async function () {
+  const el = document.getElementById('citation-count');
+  if (!el) return;
+  try {
+    const response = await fetch('data/citations.json?t=' + Date.now());
+    const data = await response.json();
+    if (data && typeof data.citations === 'number') {
+      el.textContent = `${data.citations}+`;
+    }
+  } catch (error) {
+    console.warn('Unable to load citation count', error);
+  }
+})();
+</script>
 
 </body>
 </html>

@@ -25,7 +25,7 @@
   <div class="container">
     <div class="page-header">
       <h1>Publications</h1>
-      <p>79+ citations &middot; h-index: 3 &middot; i10-index: 2. Full profile on <a href="https://scholar.google.com/citations?user=pHrzj5kAAAAJ&hl=en" target="_blank">Google Scholar</a>.</p>
+      <p id="citation-summary">Loading citation stats…</p>
     </div>
   </div>
 
@@ -179,6 +179,23 @@
   </div>
   <div class="footer-copy">&copy; 2026 Murad Smretab Mebrahtu</div>
 </footer>
+
+<script>
+(async function () {
+  const el = document.getElementById('citation-summary');
+  if (!el) return;
+  try {
+    const response = await fetch('data/citations.json?t=' + Date.now());
+    const data = await response.json();
+    if (data && typeof data.citations === 'number') {
+      el.innerHTML = `${data.citations}+ citations &middot; h-index: 3 &middot; i10-index: 2. Full profile on <a href="https://scholar.google.com/citations?user=pHrzj5kAAAAJ&hl=en" target="_blank">Google Scholar</a>.`;
+    }
+  } catch (error) {
+    console.warn('Unable to load citation summary', error);
+    el.textContent = 'Citation stats unavailable right now.';
+  }
+})();
+</script>
 
 </body>
 </html>
