@@ -2,7 +2,7 @@
 
 **Research Engineer — Autonomous Vehicle Perception & Prediction**
 
-Building and deploying perception systems for autonomous vehicles at Khalifa University's Autonomous Vehicle Lab (AVLab). 9 publications, 79+ citations.
+Building and deploying perception systems for autonomous vehicles at Khalifa University's Autonomous Vehicle Lab (AVLab).
 
 ---
 
@@ -16,7 +16,7 @@ Perception and prediction for autonomous systems: LiDAR-camera fusion, 3D object
 ## Selected Publications
 
 - **ICAR 2023** — Transformer-based probabilistic trajectory prediction (first author) — [IEEE](https://ieeexplore.ieee.org/document/10309469)
-- **Information Fusion 2026** — Trajectory prediction for autonomous driving: Progress, limitations, and future directions[arXiv](https://arxiv.org/abs/2503.03262)
+- **Information Fusion 2026** — Trajectory prediction for autonomous driving: Progress, limitations, and future directions [arXiv](https://arxiv.org/abs/2503.03262)
 - **EMT** — Multi-task AV benchmark for Gulf-region driving (co-first author) — [arXiv](https://arxiv.org/abs/2502.19260)
 - **Guardian** — Safety stack with VLM-based reasoning (under review, IEEE Access)
 
