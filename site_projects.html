@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects | Murad Mebrahtu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="index.html" class="nav-logo">murad.mebrahtu</a>
+    <button class="hamburger" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Menu">&#9776;</button>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="publications.html">Publications</a>
+      <a href="projects.html" class="active">Projects</a>
+      <a href="cv.html">CV &amp; Contact</a>
+    </div>
+  </div>
+</nav>
+
+<div class="page">
+  <div class="container">
+    <div class="page-header">
+      <h1>Projects</h1>
+      <p>Perception systems, datasets, and prediction models built and tested on real autonomous platforms.</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <section class="sec">
+      <div class="proj-grid">
+
+        <!-- AV PERCEPTION -->
+        <div class="proj-card wide">
+          <div class="proj-body">
+            <div class="proj-year">2023 &mdash; Present</div>
+            <h3>End-to-End Multi-Modal Perception System</h3>
+            <p>Full ROS2 perception pipeline deployed on real autonomous vehicles. Integrates YOLO 2D detection, PointPillars 3D LiDAR detection, camera-LiDAR fusion for 3D bounding boxes, multi-object tracking, and probabilistic trajectory prediction. Optimized via ONNX and TensorRT for real-time inference on NVIDIA hardware. Tested on EasyMile shuttles and the Pixmoving delivery robot in structured urban and closed-track environments.</p>
+            <div class="video-wrap" style="margin-top:1rem;">
+              <iframe src="https://www.youtube.com/embed/ZYhhkAWVly0" allowfullscreen loading="lazy" title="AV Software Stack"></iframe>
+            </div>
+          </div>
+        </div>
+
+        <!-- EMT -->
+        <div class="proj-card wide">
+          <div class="proj-body">
+            <div class="proj-year">2024 &mdash; Present &middot; Co-First Author</div>
+            <h3>EMT: Multi-Task Benchmark for Gulf-Region Driving</h3>
+            <p>A 570,000+ annotation benchmark capturing underrepresented Arab Gulf driving conditions. I co-led annotation cleaning and validation, dataset tooling, cross-domain and in-dataset detection experiments, and multi-class multi-object tracking evaluation across several trackers. Built to measure how perception models generalize when deployment conditions differ from conventional benchmarks.</p>
+            <div class="proj-links">
+              <a href="https://arxiv.org/abs/2502.19260" target="_blank">arXiv &rarr;</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- GUARDIAN -->
+        <div class="proj-card">
+          <div class="proj-body">
+            <div class="proj-year">2025 &mdash; 2026</div>
+            <h3>Guardian Safety Framework</h3>
+            <p>Multi-layer autonomous safety stack combining geometric validation and VLM-based reasoning for consensus safety decisions. I implemented the camera-LiDAR fusion perception component. Under review at IEEE Access.</p>
+          </div>
+        </div>
+
+        <!-- CUSTOM 3D DETECTOR -->
+        <div class="proj-card">
+          <div class="proj-body">
+            <div class="proj-year">2024</div>
+            <h3>Custom 3D Detector via Camera-LiDAR Fusion</h3>
+            <p>Designed a 3D detector that lifts YOLO 2D detections into 3D using camera-LiDAR fusion to address the limited pedestrian performance of standard LiDAR-only methods. Validated on ROS bags and in CARLA and Gazebo simulations.</p>
+          </div>
+        </div>
+
+        <!-- TURTLEBOT -->
+        <div class="proj-card">
+          <div class="proj-body">
+            <div class="proj-year">2024</div>
+            <h3>TurtleBot4 Navigation Testing Framework</h3>
+            <p>Automated integration testing for Nav2 navigation stack using Gazebo and TurtleBot4. Batch testing protocols, regression metrics (success rate, execution time, path deviation), containerized with Docker for reproducible CI workflows.</p>
+            <div class="proj-links">
+              <a href="https://github.com/Murdism/turtlebot4-navigation-testing" target="_blank">Code &rarr;</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- TRAJECTORY PREDICTION -->
+        <div class="proj-card">
+          <div class="proj-body">
+            <div class="proj-year">2021 &mdash; 2023 &middot; MSc Thesis</div>
+            <h3>Probabilistic Trajectory Prediction</h3>
+            <p>Transformer-based multi-modal model producing probabilistic trajectory distributions for pedestrians and vehicles. Converted predictions into occupancy-grid risk maps integrated with an AV planning system for risk-aware velocity and path selection. Published at ICAR 2023.</p>
+            <div class="proj-links">
+              <a href="https://ieeexplore.ieee.org/document/10309469" target="_blank">Paper &rarr;</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- CALIBRATION -->
+        <div class="proj-card">
+          <div class="proj-body">
+            <div class="proj-year">2022 &mdash; 2023</div>
+            <h3>Camera-LiDAR Calibration &amp; Fusion</h3>
+            <p>Intrinsic and extrinsic calibration for ZED2 and Ouster sensors. ROS2 synchronization, preprocessing (deskewing, ground removal, ROI filtering), and validated fusion via point-cloud overlay visualization in RViz.</p>
+          </div>
+        </div>
+
+        <!-- PARASITIC -->
+        <div class="proj-card">
+          <div class="proj-body">
+            <div class="proj-year">2021</div>
+            <h3>Parasitic Egg Detection</h3>
+            <p>Computer vision system for automated detection and classification of parasitic eggs in medical images using OpenCV and ML algorithms.</p>
+          </div>
+        </div>
+
+        <!-- BIOMETRIC -->
+        <div class="proj-card">
+          <div class="proj-body">
+            <div class="proj-year">2020 &middot; Senior Project</div>
+            <h3>Multimodal Biometric Authentication</h3>
+            <p>ML-based authentication system leveraging multiple biometric inputs. Evaluated performance and robustness against single-modality baselines.</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+  </div>
+
+</div>
+
+<footer class="footer">
+  <div class="footer-links">
+    <a href="mailto:muradsmebrahtu@gmail.com">Email</a>
+    <a href="https://scholar.google.com/citations?user=pHrzj5kAAAAJ&hl=en" target="_blank">Scholar</a>
+    <a href="https://github.com/Murdism" target="_blank">GitHub</a>
+    <a href="https://linkedin.com/in/muradmebrahtu" target="_blank">LinkedIn</a>
+  </div>
+  <div class="footer-copy">&copy; 2026 Murad Smretab Mebrahtu</div>
+</footer>
+
+</body>
+</html>

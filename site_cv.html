@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV &amp; Contact | Murad Mebrahtu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="index.html" class="nav-logo">murad.mebrahtu</a>
+    <button class="hamburger" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Menu">&#9776;</button>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="publications.html">Publications</a>
+      <a href="projects.html">Projects</a>
+      <a href="cv.html" class="active">CV &amp; Contact</a>
+    </div>
+  </div>
+</nav>
+
+<div class="page">
+  <div class="container">
+    <div class="page-header">
+      <h1>CV &amp; Contact</h1>
+      <p>Download my full academic CV or get in touch.</p>
+    </div>
+  </div>
+
+  <!-- DOWNLOAD -->
+  <div class="container">
+    <section class="sec">
+      <div style="background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius); padding:2rem; text-align:center;">
+        <div class="sec-label" style="margin-bottom:0.8rem;">Curriculum Vitae</div>
+        <p style="color:var(--text-2); font-size:0.9rem; margin-bottom:1.5rem;">Full academic CV including publications, research experience, awards, and references.</p>
+        <a href="assets/Murad_Mebrahtu_CV.pdf" class="btn btn-primary" download>Download CV (PDF) &darr;</a>
+        <p style="color:var(--text-3); font-size:0.72rem; margin-top:0.8rem;">Last updated: July 2026</p>
+      </div>
+    </section>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="container">
+    <section class="sec">
+      <div class="sec-label">Technical</div>
+      <h2>Skills</h2>
+      <div class="skills-grid">
+        <div class="skill-group">
+          <h3>Perception &amp; Deep Learning</h3>
+          <div class="skill-tags">
+            <span class="skill-tag">PyTorch</span>
+            <span class="skill-tag">Transformers</span>
+            <span class="skill-tag">YOLO</span>
+            <span class="skill-tag">PointPillars</span>
+            <span class="skill-tag">Multi-Object Tracking</span>
+            <span class="skill-tag">Trajectory Prediction</span>
+            <span class="skill-tag">OpenCV</span>
+            <span class="skill-tag">Open3D</span>
+          </div>
+        </div>
+        <div class="skill-group">
+          <h3>Sensor Fusion &amp; Calibration</h3>
+          <div class="skill-tags">
+            <span class="skill-tag">Camera-LiDAR Fusion</span>
+            <span class="skill-tag">Intrinsic/Extrinsic Calibration</span>
+            <span class="skill-tag">Time Synchronization</span>
+            <span class="skill-tag">Point Cloud Processing</span>
+          </div>
+        </div>
+        <div class="skill-group">
+          <h3>Robotics &amp; Deployment</h3>
+          <div class="skill-tags">
+            <span class="skill-tag">ROS1 / ROS2</span>
+            <span class="skill-tag">Gazebo</span>
+            <span class="skill-tag">RViz</span>
+            <span class="skill-tag">Nav2</span>
+            <span class="skill-tag">CARLA</span>
+            <span class="skill-tag">ONNX</span>
+            <span class="skill-tag">TensorRT</span>
+            <span class="skill-tag">CUDA</span>
+          </div>
+        </div>
+        <div class="skill-group">
+          <h3>Programming &amp; Tools</h3>
+          <div class="skill-tags">
+            <span class="skill-tag">Python</span>
+            <span class="skill-tag">C++</span>
+            <span class="skill-tag">MATLAB</span>
+            <span class="skill-tag">Git</span>
+            <span class="skill-tag">Docker</span>
+            <span class="skill-tag">Linux</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- CONTACT -->
+  <div class="container">
+    <section class="sec">
+      <div class="sec-label">Contact</div>
+      <h2>Get in Touch</h2>
+      <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:1rem; margin-top:1rem;">
+        <div class="highlight-card">
+          <div style="font-size:0.72rem; color:var(--text-3); text-transform:uppercase; letter-spacing:1px; margin-bottom:0.4rem; font-family:var(--mono);">Email</div>
+          <a href="mailto:muradsmebrahtu@gmail.com" style="font-size:0.9rem;">muradsmebrahtu@gmail.com</a>
+        </div>
+        <div class="highlight-card">
+          <div style="font-size:0.72rem; color:var(--text-3); text-transform:uppercase; letter-spacing:1px; margin-bottom:0.4rem; font-family:var(--mono);">Phone</div>
+          <span style="font-size:0.9rem; color:var(--text-2);">+971 56 833 8097</span>
+        </div>
+        <div class="highlight-card">
+          <div style="font-size:0.72rem; color:var(--text-3); text-transform:uppercase; letter-spacing:1px; margin-bottom:0.4rem; font-family:var(--mono);">Location</div>
+          <span style="font-size:0.9rem; color:var(--text-2);">Abu Dhabi, UAE</span>
+        </div>
+        <div class="highlight-card">
+          <div style="font-size:0.72rem; color:var(--text-3); text-transform:uppercase; letter-spacing:1px; margin-bottom:0.4rem; font-family:var(--mono);">Profiles</div>
+          <div style="display:flex; gap:1rem;">
+            <a href="https://scholar.google.com/citations?user=pHrzj5kAAAAJ&hl=en" target="_blank" style="font-size:0.85rem;">Scholar</a>
+            <a href="https://github.com/Murdism" target="_blank" style="font-size:0.85rem;">GitHub</a>
+            <a href="https://linkedin.com/in/muradmebrahtu" target="_blank" style="font-size:0.85rem;">LinkedIn</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+</div>
+
+<footer class="footer">
+  <div class="footer-links">
+    <a href="mailto:muradsmebrahtu@gmail.com">Email</a>
+    <a href="https://scholar.google.com/citations?user=pHrzj5kAAAAJ&hl=en" target="_blank">Scholar</a>
+    <a href="https://github.com/Murdism" target="_blank">GitHub</a>
+    <a href="https://linkedin.com/in/muradmebrahtu" target="_blank">LinkedIn</a>
+  </div>
+  <div class="footer-copy">&copy; 2026 Murad Smretab Mebrahtu</div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Murad Mebrahtu</title>
+  <meta name="description" content="Research Engineer building perception and prediction systems for autonomous vehicles.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="index.html" class="nav-logo">murad.mebrahtu</a>
+    <button class="hamburger" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Menu">&#9776;</button>
+    <div class="nav-links">
+      <a href="index.html" class="active">Home</a>
+      <a href="publications.html">Publications</a>
+      <a href="projects.html">Projects</a>
+      <a href="cv.html">CV &amp; Contact</a>
+    </div>
+  </div>
+</nav>
+
+<div class="page">
+
+  <!-- HERO -->
+  <div class="container">
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-eyebrow">Research Engineer &middot; Khalifa University AVLab</div>
+        <h1>Murad Smretab<br>Mebrahtu</h1>
+        <p class="hero-desc">I build perception and prediction systems for autonomous vehicles and test them on real platforms. My work sits at the point where models meet deployment: LiDAR-camera fusion, 3D detection, tracking, trajectory prediction, and the gap between benchmark accuracy and real-world reliability.</p>
+        <div class="hero-actions">
+          <a href="cv.html" class="btn btn-primary">Download CV &darr;</a>
+          <a href="publications.html" class="btn btn-outline">Publications</a>
+          <a href="projects.html" class="btn btn-outline">Projects</a>
+          <a href="https://scholar.google.com/citations?user=pHrzj5kAAAAJ&hl=en" target="_blank" class="btn btn-outline">Google Scholar</a>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- HIGHLIGHTS -->
+  <div class="container">
+    <section class="sec">
+      <div class="highlights">
+        <div class="highlight-card">
+          <div class="highlight-num">79+</div>
+          <div class="highlight-label">Citations</div>
+        </div>
+        <div class="highlight-card">
+          <div class="highlight-num">9</div>
+          <div class="highlight-label">Publications</div>
+        </div>
+        <div class="highlight-card">
+          <div class="highlight-num">570K+</div>
+          <div class="highlight-label">Annotations (EMT)</div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- RESEARCH INTERESTS -->
+  <div class="container">
+    <section class="sec">
+      <div class="sec-label">Research</div>
+      <h2>What I Work On</h2>
+      <p class="sec-intro">My research focuses on perception and motion prediction for autonomous systems, with a focus on making these systems reliable under the conditions where they currently break. I am interested in calibrated 3D perception under multi-modal sensor fusion, multi-agent trajectory prediction, and how reliability signals from perception can support safer downstream decisions. Complementary interests include large-scale dataset development and robust generalization across different environments and domains.</p>
+    </section>
+  </div>
+
+  <!-- RECENT WORK -->
+  <div class="container">
+    <section class="sec">
+      <div class="sec-label">Recent</div>
+      <h2>Selected Work</h2>
+      <div class="pub-list">
+
+        <a href="publications.html" style="text-decoration:none; color:inherit;">
+          <div class="pub-card">
+            <div class="pub-venue">Information Fusion &middot; Elsevier &middot; 2026</div>
+            <div class="pub-title">Trajectory Prediction for Autonomous Driving: Progress, Limitations, and Future Directions</div>
+            <div class="pub-authors">N. A. Madjid, A. Ahmad, <strong>M. Mebrahtu</strong>, et al.</div>
+            <div class="tags"><span class="tag">Survey</span><span class="tag">Trajectory Prediction</span></div>
+          </div>
+        </a>
+
+        <a href="publications.html" style="text-decoration:none; color:inherit;">
+          <div class="pub-card">
+            <div class="pub-venue">ICAR 2023 &middot; First Author</div>
+            <div class="pub-title">Transformer-Based Multi-Modal Probabilistic Pedestrian Prediction for Risk-Aware AV Navigation</div>
+            <div class="pub-authors"><strong>M. Mebrahtu</strong>, A. Araia, A. Ghebreslasie, J. Dias, M. Khonji</div>
+            <div class="tags"><span class="tag">Transformers</span><span class="tag">Prediction</span><span class="tag">Risk-Aware Planning</span></div>
+          </div>
+        </a>
+
+        <a href="publications.html" style="text-decoration:none; color:inherit;">
+          <div class="pub-card">
+            <div class="pub-venue">arXiv &middot; Co-First Author &middot; 2025</div>
+            <div class="pub-title">EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region</div>
+            <div class="pub-authors">N. A. Madjid*, <strong>M. Mebrahtu*</strong>, et al.</div>
+            <div class="tags"><span class="tag">Dataset</span><span class="tag">Multi-Task</span><span class="tag">Gulf Region</span></div>
+          </div>
+        </a>
+
+      </div>
+      <p style="margin-top:1.2rem;"><a href="publications.html" style="font-family:var(--mono); font-size:0.8rem;">See all publications &rarr;</a></p>
+    </section>
+  </div>
+
+  <!-- EXPERIENCE PREVIEW -->
+  <div class="container">
+    <section class="sec">
+      <div class="sec-label">Experience</div>
+      <h2>Where I Work</h2>
+
+      <div class="timeline-entry">
+        <div class="tl-header">
+          <span class="tl-title">Research Engineer</span>
+          <span class="tl-date">Jun 2023 &mdash; Present</span>
+        </div>
+        <div class="tl-org">Autonomous Vehicle Lab (AVLab), Khalifa University</div>
+        <ul class="tl-bullets">
+          <li>ROS2 perception pipelines fusing Ouster LiDAR and ZED2 stereo camera for 2D/3D detection, multi-object tracking, and trajectory prediction</li>
+          <li>Custom 3D detector using camera-LiDAR fusion for improved pedestrian detection</li>
+          <li>Co-led EMT benchmark (570K+ annotations) for Gulf-region autonomous driving</li>
+          <li>Camera-LiDAR fusion perception for Guardian safety framework (under review, IEEE Access)</li>
+          <li>Real-time deployment via PyTorch, ONNX, TensorRT on NVIDIA hardware</li>
+          <li>A2RL SuperFormula racing team (2nd place 2025, 250+ km/h)</li>
+          <li>500+ GB ROS bag data collection and closed-loop evaluation across EasyMile and Pixmoving platforms</li>
+        </ul>
+      </div>
+
+      <div class="timeline-entry">
+        <div class="tl-header">
+          <span class="tl-title">Graduate Research &amp; Teaching Assistant</span>
+          <span class="tl-date">Jan 2021 &mdash; May 2023</span>
+        </div>
+        <div class="tl-org">Khalifa University</div>
+        <ul class="tl-bullets">
+          <li>Transformer-based probabilistic trajectory prediction with occupancy-grid risk maps for risk-aware planning</li>
+          <li>Lab Instructor for C++, MATLAB, and introductory programming</li>
+        </ul>
+      </div>
+    </section>
+  </div>
+
+  <!-- AWARDS PREVIEW -->
+  <div class="container">
+    <section class="sec">
+      <div class="sec-label">Awards</div>
+      <h2>Recognition</h2>
+
+      <div class="award-row">
+        <span class="award-yr">2025</span>
+        <span class="award-text"><strong>2nd Place</strong>, A2RL SuperFormula autonomous racing (250+ km/h)</span>
+      </div>
+      <div class="award-row">
+        <span class="award-yr">2023</span>
+        <span class="award-text"><strong>2nd Place</strong>, Dubai World Congress for Self-Driving Transport (Academia) <span class="award-prize">$100,000</span></span>
+      </div>
+      <div class="award-row">
+        <span class="award-yr">2021</span>
+        <span class="award-text"><strong>1st Place</strong>, Ground Vehicles Challenge (Academia) <span class="award-prize">$100,000</span></span>
+      </div>
+      <div class="award-row">
+        <span class="award-yr">2021</span>
+        <span class="award-text">Full Scholarship, MSc in Computer Science, Khalifa University</span>
+      </div>
+      <div class="award-row">
+        <span class="award-yr">2018</span>
+        <span class="award-text">Excellence Award, Huawei Middle East Competition, Shenzhen</span>
+      </div>
+      <div class="award-row">
+        <span class="award-yr">2016</span>
+        <span class="award-text">Full Scholarship, BSc in Computer Engineering, Khalifa University</span>
+      </div>
+    </section>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="container">
+    <section class="sec">
+      <div class="sec-label">Education</div>
+      <h2>Academic Background</h2>
+
+      <div class="edu-block">
+        <div class="edu-degree">MSc in Computer Science</div>
+        <div class="edu-school">Khalifa University, Abu Dhabi</div>
+        <div class="edu-meta">Jan 2021 &mdash; May 2023 &middot; GPA: 3.93 / 4.0</div>
+        <div class="edu-detail">Thesis: Probabilistic Pedestrian Trajectory Prediction for Autonomous Vehicles</div>
+      </div>
+
+      <div class="edu-block">
+        <div class="edu-degree">BSc in Computer Engineering</div>
+        <div class="edu-school">Khalifa University, Abu Dhabi</div>
+        <div class="edu-meta">Jan 2016 &mdash; Dec 2020 &middot; GPA: 3.8 / 4.0, Highest Honors</div>
+      </div>
+    </section>
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="footer-links">
+    <a href="mailto:muradsmebrahtu@gmail.com">Email</a>
+    <a href="https://scholar.google.com/citations?user=pHrzj5kAAAAJ&hl=en" target="_blank">Scholar</a>
+    <a href="https://github.com/Murdism" target="_blank">GitHub</a>
+    <a href="https://linkedin.com/in/muradmebrahtu" target="_blank">LinkedIn</a>
+  </div>
+  <div class="footer-copy">&copy; 2026 Murad Smretab Mebrahtu</div>
+</footer>
+
+</body>
+</html>
