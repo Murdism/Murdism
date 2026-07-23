@@ -1,59 +1,49 @@
 # Murad Mebrahtu
 
-**Autonomous Systems & Perception Engineer**  
-Perception • Field Testing • ROS2 • CARLA • Autonomous Vehicles
+**Research Engineer — Autonomous Vehicle Perception & Prediction**
+
+Building and deploying perception systems for autonomous vehicles at Khalifa University's Autonomous Vehicle Lab (AVLab). 9 publications, 79+ citations.
 
 ---
 
-## 🚗 About
-I work on **perception systems and vehicle-level validation for autonomous vehicles**, with hands-on experience spanning **development, simulation, and real-world field testing**. My focus is on building **robust LiDAR–camera perception pipelines** and validating them across **CARLA simulation** and on-vehicle deployments.
+## What I Work On
 
-I regularly work with **ROS2**, **CARLA**, sensor calibration, ROS bag analysis, and simulation tools to ensure perception outputs are reliable in dynamic, safety-critical environments.
+Perception and prediction for autonomous systems: LiDAR-camera fusion, 3D object detection, multi-object tracking, and probabilistic trajectory prediction. I build ROS2 pipelines, deploy them on real vehicles via ONNX/TensorRT, and test them in structured field environments.
 
-Currently at **Autonomous Vehicle’s Lab (AVLAB), Khalifa University**.
 
 ---
 
-## 🔧 What I Work On
-- LiDAR–camera **perception pipelines** for autonomous vehicles  
-- **3D detection, tracking, and trajectory prediction** in ROS2  
-- **CARLA-based simulation testing** for perception and autonomy validation  
-- **Field testing & system validation**: sensor calibration, data collection, debugging  
-- Simulation-to-real workflows using **Gazebo, RViz, and CARLA**  
-- Real-time and **edge deployment** of perception models  
+## Selected Publications
+
+- **ICAR 2023** — Transformer-based probabilistic trajectory prediction (first author) — [IEEE](https://ieeexplore.ieee.org/document/10309469)
+- **Information Fusion 2026** — Trajectory prediction for autonomous driving: Progress, limitations, and future directions[arXiv](https://arxiv.org/abs/2503.03262)
+- **EMT** — Multi-task AV benchmark for Gulf-region driving (co-first author) — [arXiv](https://arxiv.org/abs/2502.19260)
+- **Guardian** — Safety stack with VLM-based reasoning (under review, IEEE Access)
+
+Full list: [Google Scholar](https://scholar.google.com/citations?user=pHrzj5kAAAAJ&hl=en)
 
 ---
 
-## 🧰 Tech Stack
-**Languages & Frameworks**  
-- Python, C++  
-- ROS2 (ROS1), PyTorch  
+## Tech
 
-**Simulation & Autonomy**  
-- CARLA Simulator  
-- Gazebo, RViz  
-
-**Perception & Deployment**  
-- LiDAR & camera fusion  
-- YOLO-based detection, tracking  
-- Trajectory prediction  
-- TensorRT, Docker  
-
-**Systems**  
-- Linux  
+**Perception:** PyTorch, YOLO, PointPillars, camera-LiDAR fusion, multi-object tracking, trajectory prediction, OpenCV, Open3D
+**Robotics:** ROS1/ROS2, Gazebo, RViz, Nav2, CARLA
+**Deployment:** ONNX, TensorRT, CUDA, Docker, NVIDIA edge platforms
+**Languages:** Python, C++, MATLAB
 
 ---
 
-## 🚀 Featured Work
-**End-to-End Autonomous Vehicle Perception Pipeline**  
-LiDAR–camera perception system validated in **CARLA simulation**, Gazebo, and **real-world field testing**, supporting detection, tracking, and prediction.
+## Demo
 
-▶️ Demo: https://www.youtube.com/watch?v=ZYhhkAWVly0
+End-to-end perception pipeline running on a real autonomous vehicle:
+
+[![AV Demo](https://img.youtube.com/vi/ZYhhkAWVly0/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZYhhkAWVly0)
 
 ---
 
-## 🔗 Links
-- 📄 **CV** — https://murdism.github.io/resume/  
-- 💼 **LinkedIn** — https://linkedin.com/in/murad-s-mebrahtu-0311a0181  
-- 🌐 **Portfolio** — https://murdism.github.io  
-- 📧 **Email** — muradsmebrahtu@gmail.com
+## Links
+
+- [Website](https://murdism.github.io)
+- [Google Scholar](https://scholar.google.com/citations?user=pHrzj5kAAAAJ&hl=en)
+- [LinkedIn](https://linkedin.com/in/muradmebrahtu)
+- muradsmebrahtu@gmail.com
