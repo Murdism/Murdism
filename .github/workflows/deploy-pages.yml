@@ -32,9 +32,6 @@ jobs:
         uses: actions/configure-pages@v5
         with:
           enablement: true
-          # Optional: provide a Personal Access Token (repo/pages scope) via
-          # the secret `GH_PAGES_PAT` if the GITHUB_TOKEN lacks permission.
-          token: ${{ secrets.GH_PAGES_PAT }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
