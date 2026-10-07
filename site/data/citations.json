@@ -1,6 +1,7 @@
 {
   "citations": 108,
-  "last_updated": "2026-10-06T17:59:51+00:00",
+  "last_updated": "2026-10-07T18:31:18+00:00",
   "source": "https://scholar.google.com/citations?user=pHrzj5kAAAAJ&hl=en",
-  "status": "updated"
+  "status": "fallback",
+  "last_error": "HTTP 403: Forbidden"
 }
