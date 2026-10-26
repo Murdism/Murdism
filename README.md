@@ -6,7 +6,7 @@ Building and deploying perception systems for autonomous vehicles at Khalifa Uni
 
 [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=pHrzj5kAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Murdism)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/murad-mebrahtu-0311a0181)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/murad-mebrahtu-0311a0181)
 [![Website](https://img.shields.io/badge/Website-000?style=flat&logo=safari&logoColor=white)](https://murdism.github.io)
 
 ---
